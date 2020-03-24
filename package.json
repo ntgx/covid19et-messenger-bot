@@ -8,6 +8,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "bootbot-multipage": "^1.0.45",
     "dotenv": "^8.2.0"
   },
